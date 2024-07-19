@@ -1,3 +1,2 @@
 # Blog
-My own blog website
-This is the place where I will publish my blog website that was created using Hugo
+This repo will be use to publish my Hugo website
